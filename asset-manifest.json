@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jinwitter/static/css/main.c88badb6.css",
+    "main.js": "/jinwitter/static/js/main.22834c76.js",
+    "index.html": "/jinwitter/index.html",
+    "main.c88badb6.css.map": "/jinwitter/static/css/main.c88badb6.css.map",
+    "main.22834c76.js.map": "/jinwitter/static/js/main.22834c76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c88badb6.css",
+    "static/js/main.22834c76.js"
+  ]
+}
